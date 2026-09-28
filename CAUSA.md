@@ -44,4 +44,4 @@ Tras unos minutos de procesamiento por parte de GitHub, la página quedó desple
 ![Despliegue en GitHub Pages](url%20del%20pages.png)
 
 
-Trabajo realizado por Manu Ruiz y Antonio Cantón.
+Trabajo realizado por Manuel Ruiz y Antonio Cantón.
