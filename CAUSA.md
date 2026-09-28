@@ -19,7 +19,7 @@ El error se encontraba en la línea 20 del archivo CSS. La regla que afecta a lo
 ![Código CSS original](foto%20sin%20cambio%20de%20codigo.png)
 
 ## 3. Corrección del bug
-Para solucionar este problema de contraste y accesibilidad, modifiqué la regla CSS de la línea 20 cambiando el color blanco por un color gris oscuro para que los enlaces destaquen sobre el fondo blanco y mantengan la coherencia con el resto del diseño.
+Para solucionar este problema de contraste y accesibilidad, modifiqué la regla CSS de la línea 20 cambiando el color blanco por el color verde `#65a30d` para que los enlaces destaquen sobre el fondo blanco y mantengan la coherencia con el resto del diseño.
 
 El código modificado quedó así:
 
